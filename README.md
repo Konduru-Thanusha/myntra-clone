@@ -2,13 +2,14 @@
 A responsive Myntra-inspired e-commerce website built using HTML, CSS and JavaScript.
 
 
+
 # 🛍️ Myntra Clone
 
 A responsive e-commerce website inspired by Myntra, built to practice and demonstrate front-end web development skills.
 
 ## 🚀 Live Demo
 
-[View Live Demo](YOUR_LIVE_DEMO_LINK)
+[View Live Demo](https://singular-pothos-790486.netlify.app/)
 
 ## 📌 About the Project
 
